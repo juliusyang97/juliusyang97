@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <img src= "https://img.icons8.com/ios-glyphs/30/000000/qq.png" width="28px"/>
   </a>
   &emsp;
-  <a href= "#https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" title="WeChat">
+  <a href= "./icon/WeChat_officia_ account.png" target="_blank" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 
 
 
+
 <h2></h2>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -98,7 +99,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
-<code><img height="20" src="./icon/pytorch.svg" alt="Pytorch" title="TensorFlow"></code>
+<code><img height="20" src="./icon/pytorch.svg" alt="Pytorch" title="Pytorch"></code>
 
 **Tools and Environments**
 
