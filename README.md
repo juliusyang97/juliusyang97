@@ -1,4 +1,4 @@
-## Hi, I'm <a href="https://juliusyang97.github.io/" target="_blank">JUNQI YANG /a> 👋
+## Hi, I'm <a href="https://juliusyang97.github.io/" target="_blank">JUNQI YANG </a> 👋
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -134,5 +134,10 @@ If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉
 
 🚧 **My Todoist Stats: ⬇️**
 <!--
+<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=juliusyang97&repo=PaperWeeklyAI)](https://github.com/juliusyang97/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
 -->
+=======
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
+-->
+>>>>>>> 1229c7b721ce054db4bd8616d3c6c7004ca714af
