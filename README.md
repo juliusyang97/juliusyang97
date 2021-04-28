@@ -49,12 +49,12 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
   &emsp;
-  <a href="https://space.bilibili.com/325401236" target="_blank" title="Bilibili">
-    <img src="https://img.icons8.com/android/24/000000/retro-tv.png" width = "24px"/>
-  </a>
-  &emsp;
   <a href="#https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" title="YouTube">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://space.bilibili.com/325401236" target="_blank" title="Bilibili">
+    <img src="https://img.icons8.com/ios-filled/50/000000/retro-tv.png" width = "22px"/>
   </a>
   &emsp;
   <a href="https://www.linkedin.com/in/juliusyang97/" target="_blank" title="LinkedIn">
@@ -96,7 +96,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="Qt" title="Qt"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
 **Tools and Environments**
@@ -127,7 +126,7 @@ JSON       17 mins         ▓░░░░░░░░░░░░░░░░�
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉👈  
 
-<a href="https://juliusyang97.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://juliusyang97.github.io/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
 
