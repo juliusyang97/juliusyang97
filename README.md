@@ -27,13 +27,12 @@ Here are some ideas to get you started:
     -->
   </a>
 </p>
-
 <p align="center">
   <a href="https://blog.csdn.net/weixin_45392081" target="_blank" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
-  <a href="#https://my.oschina.net/charmve" target="_blank" title="OSChina">
+  <a href="https://my.oschina.net/juliusyang97" target="_blank" title="OSChina">
     <img src="https://img.icons8.com/ios-filled/50/000000/blogger.png" width="24px"/>
   </a>
   &emsp;
@@ -45,7 +44,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
-  <a href= "#https://www.instagram.com/charmve_/" target="_blank" title="Instagram">
+  <a href= "#https://www.instagram.com//" target="_blank" title="Instagram">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
   &emsp;
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a href="https://space.bilibili.com/325401236" target="_blank" title="Bilibili">
-    <img src="https://img.icons8.com/ios-filled/50/000000/retro-tv.png" width = "22px"/>
+    <img src="./icon/bilibili.svg" width = "26px"/>
   </a>
   &emsp;
   <a href="https://www.linkedin.com/in/juliusyang97/" target="_blank" title="LinkedIn">
@@ -85,6 +84,7 @@ Here are some ideas to get you started:
 </p>
 
 
+
 <h2></h2>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,6 +97,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="Qt" title="Qt"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
+
+<code><img height="20" src="./icon/pytorch.svg" alt="Pytorch" title="TensorFlow"></code>
 
 **Tools and Environments**
 
@@ -114,7 +116,7 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
+```text 
 PyTorch    5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
 C++        1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
@@ -132,5 +134,5 @@ If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉
 
 🚧 **My Todoist Stats: ⬇️**
 <!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=juliusyang97&repo=PaperWeeklyAI)](https://github.com/juliusyang97/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
 -->
