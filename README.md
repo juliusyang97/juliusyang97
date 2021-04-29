@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-filled/50/000000/blogger.png" width="24px"/>
   </a>
   &emsp;
-  <a href="#https://space.bilibili.com/325401236" target="_blank" title="QQ">
+  <a href="./icon/qq_group.png" target="_blank" title="QQ">
     <img src= "https://img.icons8.com/ios-glyphs/30/000000/qq.png" width="28px"/>
   </a>
   &emsp;
